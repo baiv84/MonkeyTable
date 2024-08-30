@@ -13,6 +13,7 @@
 		840CBA352C80DA8700274A75 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 840CBA342C80DA8700274A75 /* Assets.xcassets */; };
 		840CBA382C80DA8700274A75 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 840CBA372C80DA8700274A75 /* Base */; };
 		840CBA402C80E5BB00274A75 /* CellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 840CBA3F2C80E5BB00274A75 /* CellView.swift */; };
+		841509802C8237C300D62BE2 /* MonkeyTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8415097F2C8237C300D62BE2 /* MonkeyTableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		840CBA372C80DA8700274A75 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		840CBA392C80DA8700274A75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		840CBA3F2C80E5BB00274A75 /* CellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellView.swift; sourceTree = "<group>"; };
+		8415097F2C8237C300D62BE2 /* MonkeyTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MonkeyTableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				840CBA2B2C80DA8600274A75 /* AppDelegate.swift */,
+				8415097F2C8237C300D62BE2 /* MonkeyTableView.swift */,
 				840CBA2D2C80DA8600274A75 /* SceneDelegate.swift */,
 				840CBA2F2C80DA8600274A75 /* ViewController.swift */,
 				840CBA3F2C80E5BB00274A75 /* CellView.swift */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				840CBA402C80E5BB00274A75 /* CellView.swift in Sources */,
+				841509802C8237C300D62BE2 /* MonkeyTableView.swift in Sources */,
 				840CBA302C80DA8600274A75 /* ViewController.swift in Sources */,
 				840CBA2C2C80DA8600274A75 /* AppDelegate.swift in Sources */,
 				840CBA2E2C80DA8600274A75 /* SceneDelegate.swift in Sources */,
